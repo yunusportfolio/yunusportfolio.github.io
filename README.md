@@ -9,7 +9,7 @@ Welcome to my professional repository. I specialize in building automated busine
 * **AI:** OpenAI Implementation, Prompt Engineering
 
 ## 🚀 Projects
-* **[Automated Portfolio](https://yourusername.github.io):** A live lead-capture system integrated with HubSpot.
+* **[Automated Portfolio](https://yunusportfolio.github.io):** A live lead-capture system integrated with HubSpot.
 
 ---
 *Looking for business efficiency? Let's connect.*
